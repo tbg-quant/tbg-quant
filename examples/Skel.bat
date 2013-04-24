@@ -1,1 +1,0 @@
-..\bin\j.bat com.tbg.tradingsystem.skel.Skel
