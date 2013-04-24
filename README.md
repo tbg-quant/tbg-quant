@@ -1,4 +1,4 @@
-tbg-quant
-=========
+tbg-Quant algorithmic trading framework
+=================================================================================
 
-Algorithmic Trading Framework
+version 1.1 beta 4
