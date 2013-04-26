@@ -44,3 +44,8 @@ tbg-Quant platform license.
 
 <h3>README.md</h3>
 This document.
+
+<br>
+<h2>EXAMPLE STRATEGIES</h2>
+tbg-Quant includes some compiled strategies, you can find sources and explaination here:<br>
+<li> https://github.com/asfolcini/tbg-quant-strategy-development/blob/master/README.md
