@@ -1,45 +1,46 @@
-tbg-Quant algorithmic trading framework
-=================================================================================
-
-<b>version 1.1 beta 4</b>
-
-
-<<<<<<< HEAD
-Algorithmic Trading Framework
-
+<h1>tbg-Quant algorithmic trading framework</h1>
 Current version is <b>1.1beta4</b>
+<br><br>
 
-QUICK REFERENCE
+<h2>WHAT IS IT</h2>
+<p>
+The Bonnot Gang Algotrading platform, commonly called tbg-Quant, is a software we provide for free to all those who are eager to investigate automatic trading. Among the various alternatives that the market offers in this area, tbg-Quant stands out for its simplicity. It empowers the trader to focus on strategy development, testing and final execution without losing valuable time learning the underneath software technology.
+</p>
 
-/bin
+<h3>Contacts</h3>
+<b>Website: <a href="http://www.thebonnotgang.com">www.thebonnotgang.com</a></b><br>
+<b>eMail  : info@thebonnotgang.com</b>
+
+
+<h2>QUICK REFERENCE</h2>
+
+<h3>/bin</h3>
 Batch scripts and Linux scripts to start the startegies in the repositosy.
 
-/config
-Configuration files
+<h3>/config</h3>
+Configuration files.
 
-/data
+<h3>/data</h3>
 Contains database filestorage if inMemory option is not used.
 
-/documentation
+<h3>/documentation</h3>
 tbg-quant official documentation (pdf) and html javadocs
 
-/lib
+<h3>/lib</h3>
 Contains third party libraries.
 
-/strategies-repo
+<h3>/strategies-repo</h3>
 Put here your compiled strategy.
 
-/tbg
+<h3>/tbg</h3>
 Contains tbg-quant-core framework and javadocs
 
 
-3rdparty_license.txt
+<h3>3rdparty_license.txt</h3>
 Third party license summary.
 
-LICENSE
+<h3>LICENSE</h3>
 tbg-Quant platform license.
 
-README.md
+<h3>README.md</h3>
 This document.
-=======
->>>>>>> 65468111879d963822092cf3cefd6eeee0b4838d
