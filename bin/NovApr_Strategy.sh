@@ -1,1 +1,1 @@
-java -cp ../tbg/*:../lib/*:../config/:../strategies-repo/*: examples.skeleton.SkeletonStrategy
+java -cp ../tbg/*:../lib/*:../config/:../strategies-repo/*: examples.seasonal.NovApr_Strategy
