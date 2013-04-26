@@ -1,6 +1,10 @@
-tbg-quant
-=========
+tbg-Quant algorithmic trading framework
+=================================================================================
 
+<b>version 1.1 beta 4</b>
+
+
+<<<<<<< HEAD
 Algorithmic Trading Framework
 
 Current version is <b>1.1beta4</b>
@@ -37,3 +41,5 @@ tbg-Quant platform license.
 
 README.md
 This document.
+=======
+>>>>>>> 65468111879d963822092cf3cefd6eeee0b4838d
