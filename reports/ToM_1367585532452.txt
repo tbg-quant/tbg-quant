@@ -1,0 +1,64 @@
+tbg-Quant Account Report (TextReportService), last upDate Fri May 03 14:52:17 CEST 2013
+>------------------------------------- ACCOUNT -------------------------------------<
+ACCOUNT_CODE:PaperAccount
+ACCOUNT_TYPE:Standard
+CURRENCY:USD
+INITIAL_CAPITAL:12000.0
+CASH_BALANCE:18190.86
+INVESTED_CAPITAL:0.0
+REALIZED_PNL:-78.21
+UNREALIZED_PNL:0.0
+EQUITY_PNL:6190.86
+>----------------------------------   PORTFOLIO   ----------------------------------<
+No position opened.
+>-------------------------------------  STATS  -------------------------------------<
+Initial Capital     : 	12000.0
+Ending  Capital     : 	18190.86
+Total Profit & Loss : 	6190.86 ( 51.59 % )
+P&L Standard Dev.   : 	293.03
+Annual Return       : 	515.9 ( 4.29 % )
+Sharpe Ratio        : 	1.76
+Profit Factor       : 	1.71
+Total Trades        : 	144
+Winners             : 	91 ( 63.19 % )
+Losers              : 	53 ( 36.8 % )
+Equals              : 	0 ( 0.0 % )
+Open Trades         : 	0
+Average Trade       : 	42.99
+Avg Winner Trade    : 	200.37
+Avg Loser  Trade    : 	-227.23
+Max Winner Trade    : 	1566.03
+Max Loser  Trade    : 	-861.82
+>---------------------------------------  LONG  ----------------------------------------<
+Long Profit & Loss       : 	6190.86 ( 51.59 % )
+Long P&L Standard Dev.   : 	293.03
+Long Annual Return       : 	515.9 ( 4.29 % )
+Long Sharpe Ratio        : 	1.76
+Long Profit Factor       : 	1.71
+Long Total Trades        : 	144
+Long Winners             : 	91 ( 63.19 % )
+Long Losers              : 	53 ( 36.8 % )
+Long Equals              : 	0 ( 0.0 % )
+Long Open Trades         : 	0
+Long Average Trade       : 	42.99
+Long Avg Winner Trade    : 	200.37
+Long Avg Loser  Trade    : 	-227.23
+Long Max Winner Trade    : 	1566.03
+Long Max Loser  Trade    : 	-861.82
+>---------------------------------------  SHORT  ---------------------------------------<
+Short Profit & Loss       : 	0.0 ( 0.0 % )
+Short P&L Standard Dev.   : 	0.0
+Short Annual Return       : 	0.0 ( 0.0 % )
+Short Sharpe Ratio        : 	0.0
+Short Profit Factor       : 	0.0
+Short Total Trades        : 	0
+Short Winners             : 	0 ( 0.0 % )
+Short Losers              : 	0 ( 0.0 % )
+Short Equals              : 	0 ( 0.0 % )
+Short Open Trades         : 	0
+Short Average Trade       : 	0.0
+Short Avg Winner Trade    : 	0.0
+Short Avg Loser  Trade    : 	0.0
+Short Max Winner Trade    : 	0.0
+Short Max Loser  Trade    : 	0.0
+>---------------------------------- ------------- ----------------------------------<
