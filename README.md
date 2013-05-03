@@ -1,5 +1,5 @@
 <h1>tbg-Quant algorithmic trading framework</h1>
-Current version is <b>1.1beta4</b>
+Current version is <b>1.1beta5</b>
 <br><br>
 
 <h2>WHAT IS IT</h2>
