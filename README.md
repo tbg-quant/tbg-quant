@@ -49,3 +49,18 @@ This document.
 <h2>EXAMPLE STRATEGIES</h2>
 tbg-Quant includes some compiled strategies, you can find sources and explaination here:<br>
 <li> https://github.com/asfolcini/tbg-quant-strategy-development/blob/master/README.md
+
+<br>
+<h2>SUPPORTED BROKERS</h2>
+
+<h3>PaperBroker</h3>
+<h3>InteractiveBrokers</h3>
+Needs library jtsclient.jar, download TWS client for Unix, open it and copy the jtseclient.jar in /lib folder.
+
+<br>
+<h2>SUPPORTED MARKETDATAFEED</h2>
+
+<h3>InteractiveBrokers</h3>
+<h3>Yahoo</h3>
+<h3>TBG</h3>
+
