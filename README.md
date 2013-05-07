@@ -11,6 +11,14 @@ The Bonnot Gang Algotrading platform, commonly called tbg-Quant, is a software w
 <b>Website: <a href="http://www.thebonnotgang.com">www.thebonnotgang.com</a></b><br>
 <b>eMail  : info@thebonnotgang.com</b>
 
+<h2>WHAT'S NEW</h2>
++ Correlation class
++ StopLoss & StopProfit
++ ETF Security Type
++ Added position history inside TextReportService
++ Managing of reports folder
++ Fixed IB library, supporting IB API 9.68
++ Documentation updated
 
 <h2>QUICK REFERENCE</h2>
 
@@ -63,4 +71,5 @@ Needs library jtsclient.jar, download TWS client for Unix, open it and copy the 
 <h3>InteractiveBrokers</h3>
 <h3>Yahoo</h3>
 <h3>TBG</h3>
+<h3>BogusMarket</h3>
 
