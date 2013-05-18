@@ -24,6 +24,7 @@ com.tbg.core.persistent.h2db
 com.tbg.core.service
 com.tbg.core.util
 com.tbg.indicator
+com.tbg.indicator.single
 com.tbg.service.alarm
 com.tbg.service.cep
 com.tbg.service.report
