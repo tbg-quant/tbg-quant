@@ -1,5 +1,5 @@
 <h1>tbg-Quant algorithmic trading framework</h1>
-Current version is <b>1.1beta5</b>
+Current version is <b>1.1beta6</b>
 <br><br>
 
 <h2>WHAT IS IT</h2>
@@ -12,12 +12,7 @@ The Bonnot Gang Algotrading platform, commonly called tbg-Quant, is a software w
 <b>eMail  : info@thebonnotgang.com</b>
 
 <h2>WHAT'S NEW</h2>
-+ Correlation class
-+ StopLoss & StopProfit
-+ ETF Security Type
-+ Added position history inside TextReportService
-+ Managing of reports folder
-+ Fixed IB library, supporting IB API 9.68
++ Support for IB Forex & Futures
 + Documentation updated
 
 <h2>QUICK REFERENCE</h2>
